@@ -12,6 +12,7 @@ The player has 3 attempts to guess the number.
 If the guess is correct, the player wins.
 
 If all attempts are wrong, the game ends and the correct number is shown.
+
 #How to run the game
 
 Make sure Python is installed.
